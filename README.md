@@ -1,8 +1,10 @@
 ## Greetings👋
 
-I, Yassine, have been interested in the realm of Cyber Security for many years which led me to pursue it professionally and ethically, other than concerned with internal system based Ai technologies. 
-On the other hand, I self published a Novel back in January 2023 and I do play with sounds and make music since 2019.
+I, Yassine, have been interested in the realm of Cyber Security for many years which led me to pursue it professionally and ethically, other than being concerned with internal system based Ai technologies, also, new to coding.
 
+On the other hand, I self published a Novel back in January 2023 and I do play with sounds, frequencies and make music since 2019.
+
+As of 2024, I have decided to learn more about AWS Cloud technologies to expand my dictionary of IT knowledge, plus, I am looking forward to learning more about IT Security and hacking as a whole for the fun of it.
 <!--
 **Yassinebelmostafa/Yassinebelmostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
