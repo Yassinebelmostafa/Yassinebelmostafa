@@ -12,7 +12,7 @@ I, Yassine, have been interested in the realm of Cyber Security for many years w
 
 -😍2023: Self Published my first Novel, got my bachelor's degree while I incorporated my first company with some partners.
 
--😶2024: €156.000 in unprocessed company sales in 2 Months (furious). Jobless in Germany, learning about AWS Cloud Technologies and expanding my IT Security knowledge for the fun of it.
+-😶2024: Jobless in Germany, learning about AWS Cloud Technologies and expanding my IT Security knowledge for the fun of it.
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/YassinebelMostafa.png" alt="TryHackMe">
 
