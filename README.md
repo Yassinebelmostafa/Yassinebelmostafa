@@ -2,9 +2,15 @@
 
 I, Yassine, have been interested in the realm of Cyber Security for many years which led me to pursue it professionally and ethically, other than being concerned with internal system based Ai technologies, also, new to coding.
 
-On the other hand, I self published a Novel back in January 2023 and I do play with sounds, frequencies and make music since 2019.
+😍2019: Started my Cyber Security Bachelor studies alongside learning frequencies and music.
+☺️2020: Learning the basics of Ethical Hacking and distributed my first music album.
+😊2021: idk, house, quarantine and who remembers what happened anyway.
+😖2022: Fled to Germany after Putin's decision to make it rain rockets above my house. Homeless and began working on my first startup idea.
+😍2023: Self Published my first Novel, got my bachelor's degree while I incorporated my first company with some partners.
+😶2024: €156.000 in unprocessed company sales in 2 Months. Jobless in Germany, learning about AWS Cloud Technologies and expanding my IT Security knowledge for the fun of it.
 
-As of 2024, I have decided to learn more about AWS Cloud technologies to expand my dictionary of IT knowledge, plus, I am looking forward to learning more about IT Security and hacking as a whole for the fun of it.
+💀:  <script src="https://tryhackme.com/badge/2656573"></script>
+
 <!--
 **Yassinebelmostafa/Yassinebelmostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
