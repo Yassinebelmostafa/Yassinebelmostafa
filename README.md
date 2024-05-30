@@ -1,4 +1,4 @@
-## Greetings👋
+## Thy Best Partner 👋
 
 I, Yassine, have been interested in the realm of Cyber Security for many years which led me to pursue it professionally and ethically, other than being concerned with internal system based Ai technologies, also, new to coding.
 
