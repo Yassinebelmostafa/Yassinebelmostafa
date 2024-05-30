@@ -1,4 +1,7 @@
-## Hi there 👋
+## Greetings👋
+
+I, Yassine, have been interested in the realm of Cyber Security for many years which led me to pursue it professionally and ethically, other than concerned with internal system based Ai technologies. 
+On the other hand, I self published a Novel back in January 2023 and I do play with sounds and make music since 2019.
 
 <!--
 **Yassinebelmostafa/Yassinebelmostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
