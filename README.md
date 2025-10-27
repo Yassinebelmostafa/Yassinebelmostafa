@@ -14,6 +14,8 @@ I, Yassine, have been interested in the realm of Cyber Security for many years w
 
 -😶2024: Jobless in Germany, learning about AWS Cloud Technologies and expanding my IT Security knowledge for the fun of it.
 
+- 2025: A lot of headaches but finally starting a SAAS business out of the blue from the most unpredictable place ever.
+
  <img src="https://tryhackme-badges.s3.amazonaws.com/YassinebelMostafa.png" alt="TryHackMe">
 
 <!--
